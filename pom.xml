@@ -81,7 +81,8 @@
 			<version>1.18.36</version>
 		</dependency>
 
-		<!-- System Monitoring -->
+		<!-- System Monitoring using oshi library -->
+
 		<dependency>
 			<groupId>com.github.oshi</groupId>
 			<artifactId>oshi-core</artifactId>
